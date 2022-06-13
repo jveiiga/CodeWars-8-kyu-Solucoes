@@ -6,7 +6,9 @@ function minimum(list){
   for( let i = 1; i < list.length; i++ ) {
 
     if( list[i] < min ) {
+
         min = list[i]
+        
     }
 
   }
@@ -24,7 +26,9 @@ function maximum(list){
     for( let i = 1; i < list.length; i++ ) {
 
         if( list[i] > max ) {
+
             max = list[i]
+
         }
     }
 
