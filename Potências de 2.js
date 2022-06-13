@@ -12,9 +12,9 @@ function powersOfTwo(num){
     return arr
 
 }
-console.log(powersOfTwo(0))
-console.log(powersOfTwo(1))
-console.log(powersOfTwo(4))
+console.log(powersOfTwo(0));
+console.log(powersOfTwo(1));
+console.log(powersOfTwo(4));
 //usando loop for e fazendo o push com metodo Math.pow
 function powerOfTwo(num){
    
@@ -29,6 +29,6 @@ function powerOfTwo(num){
     return arr
 
 }
-console.log(powerOfTwo(0))
-console.log(powerOfTwo(1))
-console.log(powerOfTwo(4))
+console.log(powerOfTwo(0));
+console.log(powerOfTwo(1));
+console.log(powerOfTwo(4));
