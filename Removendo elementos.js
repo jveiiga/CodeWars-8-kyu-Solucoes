@@ -1,4 +1,4 @@
-// usando loop for 
+// usando loop for i += 2
 function removeEveryOther(arr){
 
     let res = []

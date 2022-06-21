@@ -1,8 +1,10 @@
-stairsIn20 = arr => 20 * 
-
-    
-
-
+function stairsIn20(arr){
+    let res = []
+    for( let i = 0; i < arr.length; i++ ) {
+        res.push(Number(arr[i]))
+    }
+    return res
+}  
 console.log(stairsIn20([
 sunday = [
     6737, 7244, 5776, 9826, 7057, 9247, 5842, 5484, 6543, 5153, 6832, 8274,
